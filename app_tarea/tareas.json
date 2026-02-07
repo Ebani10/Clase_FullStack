@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "titulo": "Dormir",
+    "descripcion": "Antes de las 10pm"
+  },
+  {
+    "id": 2,
+    "titulo": "Investigar",
+    "descripcion": "aprender bien fs.Promises"
+  },
+  {
+    "id": 3,
+    "titulo": "Estudiar aun mas",
+    "descripcion": "Entender todo esto que estoy haciendo"
+  }
+]
